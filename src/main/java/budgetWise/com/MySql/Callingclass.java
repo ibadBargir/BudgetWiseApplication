@@ -16,7 +16,10 @@ public class Callingclass {
     }
     public static void main(String[] args) throws SQLException {
 
+        //compile terminal output
         System.out.println("Hello how are you ");
         callProcedure();
+
+        System.out.println(" Hello Java ");
     }
 }
